@@ -9,12 +9,13 @@ Pearson-Hardman é uma aplicação front-end e mobile construída durante o Fron
 
 A aplicação consiste em um layout de uma página de um escritório de Advocacia, sendo responsivo para desktop e mobile.
 
-## Layout Mobile
-
-
-
 ## Layot Web
 
+![Captura de tela 2022-11-13 204342](https://user-images.githubusercontent.com/109192128/201550909-6caea9c0-3cd3-441b-a72f-1cdf0480695d.jpg)
+
+## Layout Mobile
+
+![ad2](https://user-images.githubusercontent.com/109192128/201550904-4df88d61-ecc5-479e-8b00-24463f72414b.jpg)
 
 ### Curiosidades do projeto.
 
