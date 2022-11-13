@@ -1,4 +1,4 @@
-# Pearson-Hardman
+# Pearson Hardman
 
 ## Sobre o Projeto
 
