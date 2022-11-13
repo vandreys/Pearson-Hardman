@@ -21,8 +21,8 @@ A aplicação consiste em um layout de uma página de um escritório de Advocaci
 
 
 - Usei flexbox para posicionamento de elementos.
-- Menu no header funcional com JavaScript.
 - Através do Media Queries deixamos o Projeto totalmente responsivo.
+- O site possui algumas funções em JavaScript como Menu Mobile, transição de slides no cabeçalho e um scroll suave pelas sessões ao clicar em seus links no menu.
 
 
 ### Front-end
